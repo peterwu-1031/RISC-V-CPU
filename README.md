@@ -5,3 +5,4 @@ My CPU supports single cylce instructions in the RISC-V instruction set includin
 * I translated three different functions written in Python(.py) in "fact", "leaf" and "hw1" into RISC-V instructions(.s) and then translated RISC-V instructions into machine codes(.txt).
 * Users could use 'Final_tb.v' to test the machine codes with my CPU:
 <pre> ncverilog Final_tb.v +define+fact +access+r </pre>
+P.S. The license for ncverilog is required.
