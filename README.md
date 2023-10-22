@@ -1,4 +1,4 @@
-# A RISC-V CPU (CHIP.v)
+# RISC-V CPU (CHIP.v)
 ## Introduction:
 My CPU supports single cylce instructions in the RISC-V instruction set including "auipc", "jal", "jalr", "beq", "lw", "sw", "addi", "slti", "slli", "srli", "add", "sub" and is also able to perform 32-bit multiplication in 33 cycles.
 ## How it works:
