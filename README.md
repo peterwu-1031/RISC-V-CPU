@@ -1,6 +1,6 @@
 # RISC-V CPU (CHIP.v)
 ## Introduction:
-My CPU supports 33-cycle 32-bit multiplication and 12 single-cylce instructions in the RISC-V instruction set including:
+My CPU supports 32-bit multiplication and 12 single-cycle instructions in the RISC-V instruction set including:
 * auipc
 * jal
 * jalr
